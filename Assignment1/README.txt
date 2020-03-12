@@ -1,7 +1,4 @@
 Abby Bechtel
-abechtel@chapman.edu
-2312284
-CPSC 350-03
 Assignment 1 -
 
 SOURCE FILES:
