@@ -1,8 +1,5 @@
 /*
 Abby Bechtel
-2312284
-abechtel@chapman.edu
-CPSC 350-03
 Assignment 3 - Delimiter Checker
 */
 
